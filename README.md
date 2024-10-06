@@ -1,6 +1,10 @@
 # React Weather App
 Deployed at - https://mywebsite2004.netlify.app
 
+<img width="1445" alt="Screenshot 2024-10-06 at 2 54 35 PM" src="https://github.com/user-attachments/assets/19d1ff03-b3f4-40b6-b0fe-82319b736bb6">
+<img width="1438" alt="Screenshot 2024-10-06 at 2 54 46 PM" src="https://github.com/user-attachments/assets/e4ce7521-3ed6-4331-8f6b-eb740be3af8a">
+<img width="1425" alt="Screenshot 2024-10-06 at 2 56 06 PM" src="https://github.com/user-attachments/assets/e270360c-7bb7-4f10-b125-d43e21257ac7">
+
 
 This is a simple weather application. It displays real-time weather information about the cities over 1 million population for the that day and for the week.
 
